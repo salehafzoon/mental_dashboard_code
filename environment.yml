@@ -4,3 +4,10 @@ channels:
 packages:
 - jupyter-panel-proxy
 
+dependencies:
+  - bokeh
+  - pandas
+  - scipy
+  - pip
+  - pip:
+    - jupyter-server-proxy
