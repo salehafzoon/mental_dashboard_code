@@ -3,3 +3,5 @@ channels:
 
 packages:
 - jupyter-panel-proxy
+- sklearn
+- xgboost
